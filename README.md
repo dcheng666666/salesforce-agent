@@ -2,6 +2,10 @@
 
 An intelligent Salesforce data query agent built with Google ADK and Gemini LLM model for querying Salesforce data via SOQL.
 
+![ADK Web Interface](adk-web.png)
+
+*Salesforce Agent Web Interface - Query and interact with your Salesforce data using natural language*
+
 ## 🎯 Codebase Purpose
 
 This codebase demonstrates **two different approaches** for integrating Salesforce with AI agents:
