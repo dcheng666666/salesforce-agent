@@ -150,4 +150,4 @@ I want to know Huawei Account in My CRM
 
 - [Google ADK Documentation](https://github.com/google/adk)
 - [Salesforce REST API Documentation](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/)
-- [SOQL Query Language Guide](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/)
+- [Salesforce MCP server](https://github.com/tsmztech/mcp-server-salesforce)
