@@ -2,6 +2,14 @@
 
 An intelligent Salesforce data query agent built with Google ADK and Gemini LLM model for querying Salesforce data via SOQL.
 
+## 🎯 Codebase Purpose
+
+This codebase demonstrates **two different approaches** for integrating Salesforce with AI agents:
+
+1. **Function Tool Approach** (`function_tool/`): Wraps Salesforce API calls as custom function tools that the agent can directly invoke
+2. **MCP (Model Context Protocol) Approach** (`salesforce_mcp/`): Uses the Salesforce MCP server to provide standardized tool interfaces for agent interaction
+
+Both approaches showcase how to encapsulate Salesforce connectivity and operations into reusable tools that AI agents can leverage for data querying and manipulation.
 
 ## 🛠 Tech Stack
 
@@ -31,7 +39,7 @@ cd salesforce-agent
 
 Using uv (recommended):
 ```bash
-uv pip install -e .
+uv sync
 ```
 
 ## ⚙️ Configuration
