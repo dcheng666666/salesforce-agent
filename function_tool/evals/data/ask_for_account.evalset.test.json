@@ -1,0 +1,91 @@
+{
+  "eval_set_id": "ask_for_account",
+  "name": "ask_for_account",
+  "eval_cases": [
+    {
+      "eval_id": "happy_path",
+      "conversation": [
+        {
+          "invocation_id": "e-e887ddd4-a747-4b12-aaf9-8e44ca02ac80",
+          "user_content": {
+            "parts": [
+              {
+                "text": "I want to understand Huawei Account"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "thought_signature": "CrMKAePx_14WOT4Ci3KaB3k7ogfadMwCaR9hkv4qfZQidBc1CRaU_CHjbErTmAvHBrQ_GI0KNML7I1TH3FN4GsXzl2RtWeQ2B3iG5WoUR2ZFuhyjoaJZYiCVxBk46oNHljbaU1U8gS49bMS2gVqsePKcJXESeiFV3HwCZIGtgRqY6A4wX1W8YRLpDuv9dTD-00xWpH2m6fgM5JUQrzp9Tuqq2-M0VnaMm5d--_gfplIUgzOwTLA05y5SDhsVxUBL9NBbGjaP_xHhfoghoSYw7Ta1X8XMHX1Qdwg9uQpSWLTv9BoFWQLtEePtlOQ6xwJxRXz-pKGrom3ap8vn4n4_cldcLzmuLkJj31yA05o_GrQm6IuhKr2WbnTND1a-d_ywfX8GZIl6U5Okg9YvniyKPQu7H5TqJ3kYa69ZUzHRBWrCkvL_4fyQYm5j8ysJVPKo4A-BgB0mhvt8CLp3z9Rum6fbaVayslFnKL1KSX7s1U1j20DSz8wwtTZ5kjmXXvE4CEh_jPFJ-iMlRWW75Gki_NGzRaolJbr6wsVNNm_BfowYsOIquO845De0RYRYnXUixdXJEkVGp6Av6LkEfQMXsXiS1rSAK8fmTbegNf6DiIggVi0I1GZJ4EM8n3fItfPdKCeJ_Tx-ICb3P1_eDL83D9mj16_QBWkBKXHc_m4XI3ZA7c61wFqYjtQdyvY-BxRtEmLxcRm0Z9QgePhXn77NEwpb-ZHlbEjWHwSGhsrypxS5G1dZxdQiqp_NRaCCFdMtlHe2O998moBm0mnS1tjI6SBgTJcmO3R8h0_EVMlXIYHWwbDbeKRyi5UanqPPSXLEARBPtjCdDYJHiJ9E12S7WXEuS5t_LIGzjVzI5lu7wpXdXQ3IlLrf1rYTxSN4Y3aT4I1PA6zF9GRacN1qPs68_4oIYiUGkY636E30c3SmKEXHBUvNmtMv2FoWSlu3qz6neC5smRjhZs2iI7QmyNLcPEVT9BatgUnQrEBT72NybEzYj7g6olua7Tm8hfSNH57Xa1_N8VjRkNHse-ZhfUe11HYKEGayj-_hjlgRdd_ux2xTnt97hMPqvDA8R0UOlrxou5QxOuEkOnIG8jMPMfqINZqUjbl5rrkWhQIbEU1hsYzk4x-y4dY_FC0n13qMnm0TjObe8BYqDYhpXA1Y7BlTD0obeIurJCzaqs2jZ2TsLb1ArAAICqYTuRNFrdJaXDzfQDQoTs21CELvJwwsbcfY3GpuzSlpjAXtUozlaUmpq-BzIUC3QsXPHnCia74GGAIoiTP2elUcmhfgWIRvVXUMoTqr2uaGce3jgD5_gLIuveP0AwLOyFjsoB6vhLcUfakJc8qWu01MA0Nkksd2ppeCJ2kOYFKxthxpzoS1Hf5Goo66m2GfqGhNHMI_umhYfaD2EVsuK6DecNQuuwm_Rac9eHvp6ZmIm4BFml3u7DjkI2bCmv_Qgwvv2g6v90mj2eBpFPFz6VFLH4V16Mk7ACPtbZs_l26VS-GAnfXnI8So4hSxI-KfiaCxQbCxHTCycoKfHSPncPK_eq8xPD9UY6JotlbogT_rfUrHedn-2ctmt0afZOtFHogibpHz7T9Hs921e7RrFFKhBEBfO3xni-VABB68fA38-Tux0hZKQRn6RAl9tBwZkw9WbusbFxbAHETc3CwwuXloIvdIun0w8torhQiLsVpUR55dLqFJyd--Xyhrx7Rs-vSFO9y5_WZDyrlGzWRv6Gxw-_5wqHBqqlvVdOG8esDPIlYQpMFDkyN3PnyUIxo8nng=",
+                "text": "Of course, I can help you with that. The account name for Huawei is huawei, the industry it belongs to is Automotive, and the account ID is 001VC000026K8wEYAS."
+              }
+            ],
+            "role": "model"
+          },
+          "intermediate_data": {
+            "invocation_events": [
+              {
+                "author": "root_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "thought_signature": "CtYMAePx_14Fk0bzFLzSoz9dawVur01GMS_O-XHjtSZ_kFvGfahPgfdudHU1KjyWgoT_4s1OpXlhCyZJRkyZi2YRPcsZGI7ncFOZc3tRdlcqM9mQ3D3U-vcPdKxVKiC15F5XcKmyXnegmag8VdIVlxDo_cPUJeYubU_XjYAR5_KPMVD1xnmFSne5mxny8aaLrWuUgS3Trwn7p5DToY3FJDw0R8qQAaHHm43JrR369OQAEZcWnB1krkaNWAMAxccFmHd_nE2uNUxaHVlF8omYYr9UszABiel4Qip9PqyMKfk4SXIO70L1KYp1Hl2lgTLdJbq00D4BJTVk4aD3WrWb7-pr6OLEsi3UyMVVCh3b1N_cI7hLHhtWz8fvQ_HZxmo9ELxoTFAbuN6mYUEbSBPfKSQ-FWoRvtNlbUDTVJbV_f4NebNekgOmUXezBbGS3dEd8z1iX6bLNPeDdEGGCzgSSw1AGfMNi8BDHDepDphwaRMxJlRW4k0f9gkbtumErOxK7rXVtBfnxdjwolPxm2CgnMosf6bizOCjZRFNp4E4OUl6KeBrTutqDAk-NKCu-aTKnkScIWpQ8An7EHdO449FWlueWzh6vLK6PjnQ4ylsuZ3mdy8W3PXvMPK4IecrQp-bul9la6S3PAW3Y_gFH_jh91z0iYHZATOmmSA0zA_mTP4Ky8u2V2q4ZXkBmzjMNwm8FW3zxe5pu9h5lE9lFpkvBolHegg1T7mPJnT7DdPcLfKsa1WUJUSVhr-xZ8hitmhKg0A-hgFxA1hYQMGi5M0k3ssqf4HPedM7bjvSqIpuFIn6JhFrEbrt_Xg4z4rbEkLAKDtnfcovci7jb3ceRqm_jtyZvzvMqH98Y2kXRFkNDJlItM_Ze3m3_w0xaha6lGNGCEIma4WBCvs5M2zvTFwp6heQfo-niPspSTbYVFO7_ZXSbqcd5CiJg87OqIeMcjjSoKUTMUWTIhkOr68_XNeOC0QlwAQGlHz6QmTgkLAhhkVGw0dNdg5xcR8xjJ0qhoiZPFcueLfI57ehIUsXGB03BwQHRk4L_ALunUV39PIhQQ9ealjV_dteoR_xdz1o02h2zmQfDE-Nk7x5jgzb3ZFiDcNsiE8o2iVHeoJjyWK5hK6rQIx1nrTxmW2-o-s5QWlLXYffgiKCubQmnrqj8_yw7uK3A6oJA1iuX1ufWLOgQ9DwiEstLfKc9NN2anYyB_GlL5GbLfxiDiCR20muALCQPGjr7VXuaPsdSgqYn3zFLHJcYdcIiPCf17ONAd8upZATBmPBvPVkSSrye3D7kHWTgDcCQGmEeTFnZqNjzPi-R4WlW38xF3en04tmcK640A_CeaJaytCjTQLKspPr8V0kLhcvXCzKwq-UJBgO7S1VXk5C_78gzcAcVrVTvRu1BhYriHqgWaTTQPmWyS5UxXpnlKhY77aQ03hi37aimagV5tUXweWC6c0Z_IkY6Wxc-VU9aL_FjuB_5U4qxefG2HxVVArl0S1OhT710ARdqjW0QjEnGI9T7ZfjXxynIz-T7NXKWhcUKOQ48OjV2UNr8apOUomVEN3e_upHBlKThDA0WxLkSbCynOV5p7RtV9FUvGD5yqj7lOe9Ri7U5wf5r6roAOT3KwFxJlVTGC9MmSKz2F45544F-RqEw9JHcwF26sIcfHGeIy3SHLnooLXLMcvdRiDQZQOx-21_DEKOnju4oszR6nkA6IXeU4KH7UvvjcsEqn7hpumDhvZzuW_-PCqMxDqCppRQYqKQRQaBtNs_6j1hbM7T1Q-MUNzYVIIW6hwhpyakhBraQEmxfP_rfWUrPSsVjOqdZbiMV6xewhduyF3l-rh9zEUQF4WAT5xpvM68Nd0seSxTrRslXwIvCIywbCu_gKTJnoa6FTHPVh4OWAgUqLTmh_tRIVzaGW4HJ-zu7nSiiOke-KL_ZchHWpR6UMJl_-aSXCDDfvGBa6GYpYjks7cLrTr3CCmmieoBrZ-1dlNsUji7GStfYe8G1nqFwO7L8n7FWGRqfMER6It8hSERE_kbtxihINdmdHXH2fxX6xPoHu3ih9npXDvCAYK1BgCh6nDpesKEaHcAqsfh8lw_sR9LNmGYmH7mH7iZ2GK-sTeSm0zAua02PFNowBx97q19lAJRmFURc8jEueq8zCqRw056fHbHbvg=",
+                      "function_call": {
+                        "id": "adk-b16cdc64-94fa-496a-a55a-40222be08f37",
+                        "args": {
+                          "soql_query": "SELECT Id, Name, Type, BillingCountry, Industry FROM Account WHERE Name = 'Huawei'"
+                        },
+                        "name": "salesforce_soql_tool"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                }
+              },
+              {
+                "author": "root_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "adk-b16cdc64-94fa-496a-a55a-40222be08f37",
+                        "name": "salesforce_soql_tool",
+                        "response": {
+                          "totalSize": 1,
+                          "done": true,
+                          "records": [
+                            {
+                              "attributes": {
+                                "type": "Account",
+                                "url": "/services/data/v64.0/sobjects/Account/001VC000026K8wEYAS"
+                              },
+                              "Id": "001VC000026K8wEYAS",
+                              "Name": "huawei",
+                              "Type": null,
+                              "BillingCountry": null,
+                              "Industry": "Automotive"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                }
+              }
+            ]
+          },
+          "creation_timestamp": 1763155688.406283
+        }
+      ],
+      "session_input": {
+        "app_name": "function_tool",
+        "user_id": "user"
+      },
+      "creation_timestamp": 1763155836.454357
+    }
+  ],
+  "creation_timestamp": 1763155770.04933
+}
